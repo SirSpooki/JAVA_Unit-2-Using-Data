@@ -1,3 +1,7 @@
+/*
+    SirSpooki
+    SlayTeam 2023
+*/
 class InchesToFeet {
     public static void main(String[] args) 
     {
