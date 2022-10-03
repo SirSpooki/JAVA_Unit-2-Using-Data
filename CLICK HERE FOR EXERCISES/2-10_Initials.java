@@ -1,3 +1,7 @@
+/*
+    SirSpooki
+    SlayTeam 2023
+*/
 class Initials {
     public static void main(String[] args) 
     {
