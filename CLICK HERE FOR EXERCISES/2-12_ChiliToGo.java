@@ -1,3 +1,7 @@
+/*
+    SirSpooki
+    SlayTeam 2023
+*/
 import java.util.Scanner;
 class ChiliToGo {
     public static void main(String[] args) 
