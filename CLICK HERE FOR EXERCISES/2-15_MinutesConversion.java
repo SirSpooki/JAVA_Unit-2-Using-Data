@@ -1,3 +1,7 @@
+/*
+    SirSpooki
+    SlayTeam 2023
+*/
 import java.util.Scanner;
 public class MinutesConversion {
     public static void main(String[] args) 
