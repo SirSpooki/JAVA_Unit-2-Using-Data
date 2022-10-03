@@ -1,3 +1,7 @@
+/*
+    SirSpooki
+    SlayTeam 2023
+*/
 public class DebugTwo2
 {
     public static void main(String[] args)
